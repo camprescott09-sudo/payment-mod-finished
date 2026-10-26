@@ -1,0 +1,12 @@
+{
+	"required": true,
+	"minVersion": "0.8",
+	"package": "com.example.paybuttons.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"client": [
+		"ChatComponentAccessor"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
